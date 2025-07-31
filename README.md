@@ -14,7 +14,7 @@
 🌍 **Sprachen**: Arabisch, Deutsch, Englisch, Französisch  
 💡 **Lieblingsthemen**: Agilität, Cloud-Architektur, UX, Team-Magie ✨
 
-![GitHub Snake](https://github.com/jihenestambouli/jihen-stambouli/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/jihenestambouli/snk/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🌸 Lass uns connecten!
